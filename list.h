@@ -4,7 +4,7 @@
 #include <string>
 
 // ------------------------------------------------------------
-// Lab 4: Adding List-Based Integers (CS202)
+// Adding List-Based Integers
 // Each node stores ONE digit (0-9).
 // The HEAD node is the least significant digit (ones place).
 // Example: 123 is stored as: [3] -> [2] -> [1] -> NULL
