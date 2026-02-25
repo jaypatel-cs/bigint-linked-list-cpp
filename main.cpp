@@ -5,6 +5,7 @@ using namespace std;
 
 // ------------------------------------------------------------
 // Jay Patel
+// List-Based Integer Addition (C++)
 // Read each line: integer1 integer2
 // Convert both to digit-lists
 // Add them
