@@ -4,8 +4,7 @@
 using namespace std;
 
 // ------------------------------------------------------------
-// Jay Patel jpatel89
-// Lab 4 main:
+// Jay Patel
 // Read each line: integer1 integer2
 // Convert both to digit-lists
 // Add them
